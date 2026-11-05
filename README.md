@@ -2,6 +2,8 @@
 
 Express API for SocialSpark events, joins and Better Auth. MongoDB stores users, sessions, events and participation.
 
+**Live API:** https://social-spark-api.vercel.app
+
 ## Setup
 
 1. Copy `.env.example` to `.env` and set `MONGO_URI` and a random `BETTER_AUTH_SECRET` (at least 32 characters).
